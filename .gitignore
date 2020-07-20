@@ -1,0 +1,9 @@
+Makefile
+aclocal.m4
+autom4te.cache/
+common/include/config.h
+common/include/lib.mak
+config.log
+config.status
+defs.mak
+libcwiid/cwiid.pc
